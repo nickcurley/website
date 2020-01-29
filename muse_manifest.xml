@@ -1,0 +1,63 @@
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425362991314">
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="211418872" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="nicholas_curley_white_logo.png" crc="4088732044" mt="1424138459000"/>
+    <file name="curley_wineposter-2.jpg" crc="223101845" mt="1424061806000"/>
+    <file name="curley_project4-cropped850x404.jpg" crc="4182968569" mt="1418780186000"/>
+    <file name="borderlands-c4d.jpg" crc="3906062352" mt="1421186704000"/>
+    <file name="christmascard-mockup.jpg" crc="4024758089" mt="1424206029000"/>
+    <file name="challangeacceptedflipped.jpg" crc="64715626" mt="1424226399000"/>
+    <file name="curley_assignment1.jpg" crc="429790014" mt="1418788716000"/>
+    <file name="curley_assignment6235x362.jpg" crc="368469106" mt="1418788710000"/>
+    <file name="colasantis-_lemurmouthopen.jpg" crc="3928462798" mt="1418788718000"/>
+    <file name="curley_3-apps.jpg" crc="141624073" mt="1424621154000"/>
+    <file name="wall-e-website.jpg" crc="400773937" mt="1424634893000"/>
+    <file name="nicholas-curley_preloader-transparent.gif" crc="3977317874" mt="1424641158000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index"/>
+    <file name="museutils.js" crc="3793461109" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="4263367560" ref="index"/>
+    <file name="musewpslideshow.js" crc="126372691" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3946374898" ref="index"/>
+    <file name="touchswipe.js" crc="3796284560" ref="index"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3911121598" ref="index"/>
+    <file name="nicholas_curley_white_logo.png" crc="185486467" ref="index"/>
+    <file name="icechunks_closeup-copy.jpg" crc="388336545" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="bluejaysmokestack.jpg" crc="305243898" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="curley_wineposter-2.jpg" crc="105089141" ref="index"/>
+    <file name="curley_3-apps.jpg" crc="299835358" ref="index"/>
+    <file name="christmascard-mockup.jpg" crc="414073359" ref="index"/>
+    <file name="sprockets.jpg" crc="507708098" ref="index"/>
+    <file name="challangeacceptedflipped.jpg" crc="175755674" ref="index"/>
+    <file name="borderlands-c4d.jpg" crc="430069961" ref="index"/>
+    <file name="wall-e-website.jpg" crc="4082549246" ref="index"/>
+    <file name="london-ferries.jpg" crc="273881306" ref="index"/>
+    <file name="dotdotpro-website.jpg" crc="4229066435" ref="index"/>
+    <file name="curley_project4-cropped850x404-crop-u2250.jpg" crc="3976956967" ref="index"/>
+    <file name="curley_assignment1.jpg" crc="403191858" ref="index"/>
+    <file name="colasantis-lemur.jpg" crc="365789876" ref="index"/>
+    <file name="curley_wineposter-2-crop-u2010.jpg" crc="3896063687" ref="index"/>
+    <file name="curley_3-apps-crop-u2024.jpg" crc="338701052" ref="index"/>
+    <file name="christmascard-mockup-crop-u2136.jpg" crc="3891718471" ref="index"/>
+    <file name="sprockets-crop-u2160.jpg" crc="4161309729" ref="index"/>
+    <file name="challangeacceptedflipped106x86.jpg" crc="452222136" ref="index"/>
+    <file name="borderlands-c4d120x75.jpg" crc="4196394745" ref="index"/>
+    <file name="wall-e-website-crop-u2207.jpg" crc="229273705" ref="index"/>
+    <file name="london-ferries-crop-u2216.jpg" crc="3995955796" ref="index"/>
+    <file name="dotdotpro-website-crop-u2225.jpg" crc="523862612" ref="index"/>
+    <file name="curley_project4-cropped850x404-crop-u2253.jpg" crc="18758196" ref="index"/>
+    <file name="curley_assignment1-crop-u2262.jpg" crc="534097880" ref="index"/>
+    <file name="colasantis-lemur-crop-u2234.jpg" crc="3990640520" ref="index"/>
+  </folder>
+  <file name="index.html" crc="314792459" mt="1425362943636" redirect="true"/>
+</manifest>
